@@ -5,7 +5,7 @@ Este repositório apresenta a implementação numérica das três Equações Dif
 O código permite resolver cada uma dessas equações e gerar os **gráficos das soluções aproximadas**, ilustrando o comportamento das soluções.
 
 Este material está associado à dissertação disponível no Repositório Institucional da Universidade Federal de São Carlos (UFSCar):  
-🔗 [https://repositorio.ufscar.br/handle/20.500.14289/17034](https://repositorio.ufscar.br/handle/20.500.14289/17034)
+🔗 [https://repositorio.ufscar.br/handle/20.500.14289/17034](https://hdl.handle.net/20.500.14289/21863)
 
 ## Estrutura
 
